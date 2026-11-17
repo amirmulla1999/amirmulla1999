@@ -3,6 +3,8 @@
 I'm a software engineer who builds backend systems and AI-powered applications:
 LLM agents, computer-vision services and REST APIs, shipped with tests, CI and Docker.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amirmulla/)
+
 ### Featured projects
 
 | Project | What it is | Stack |
