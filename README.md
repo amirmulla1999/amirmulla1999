@@ -41,9 +41,9 @@ integration, RAG and AI agents, including one that is live on Google Cloud Marke
 
 | Project | What it is | Stack |
 |---|---|---|
-| **[AI Agents](https://github.com/mulla1999/ai-agents)** | Two production-minded AI agents on a shared, provider-agnostic core. **HireFinch** is a multi-user job-search agent: it finds jobs from 9 source types, scores them with explainable matching, tailors resumes with fact-checked AI rewrites and fills applications through a Chrome extension. **Saathi** helps people in India find government welfare schemes they qualify for, in their own language, on the web and WhatsApp, with eligibility decided by a rules engine and scheme data checked against official sources. | Python, FastAPI, React, TypeScript, PostgreSQL, Azure OpenAI / Gemini, Docker |
-| **[Face Identity Service](https://github.com/mulla1999/face-service)** | Face verification (1:1) and real-time identification (1:N) API with a vector-search gallery, a live webcam stream over WebSocket and API-key auth. | Python, FastAPI, InsightFace ArcFace, FAISS, Docker |
-| **[Task Management System](https://github.com/mulla1999/sprih-task-management-system)** | REST API for tasks with filtering, pagination, sorting, DTOs and structured error handling. | Java, Spring Boot, Spring Data JPA, H2, JUnit 5 |
+| **[AI Agents](https://github.com/amirmulla1999/ai-agents)** | Two production-minded AI agents on a shared, provider-agnostic core. **HireFinch** is a multi-user job-search agent: it finds jobs from 9 source types, scores them with explainable matching, tailors resumes with fact-checked AI rewrites and fills applications through a Chrome extension. **Saathi** helps people in India find government welfare schemes they qualify for, in their own language, on the web and WhatsApp, with eligibility decided by a rules engine and scheme data checked against official sources. | Python, FastAPI, React, TypeScript, PostgreSQL, Azure OpenAI / Gemini, Docker |
+| **[Face Identity Service](https://github.com/amirmulla1999/face-service)** | Face verification (1:1) and real-time identification (1:N) API with a vector-search gallery, a live webcam stream over WebSocket and API-key auth. | Python, FastAPI, InsightFace ArcFace, FAISS, Docker |
+| **[Task Management System](https://github.com/amirmulla1999/sprih-task-management-system)** | REST API for tasks with filtering, pagination, sorting, DTOs and structured error handling. | Java, Spring Boot, Spring Data JPA, H2, JUnit 5 |
 
 ### Tech stack
 
